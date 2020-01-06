@@ -1,18 +1,13 @@
 {
   "name": "loc8r",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "engines": {
-<<<<<<< HEAD
     "node": "12.13.0",
     "npm": "6.12.0"
-=======
-    "node": "~0.10.13",
-    "npm": "~1.3.2"
->>>>>>> origin/chapter-04-views
   },
   "dependencies": {
     "express": "~4.9.0",
